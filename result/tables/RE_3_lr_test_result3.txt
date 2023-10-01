@@ -1,0 +1,4 @@
+"CobbDouglas with dummy"	"Trnaslog"	"Translog with dummy"
+"CobbDouglas"	"55.56a (11.34, 3)"	"88.63a (11.34, 3)"	"138.36a (16.81, 6)"
+"CobbDouglas with dummy"	NA	NA	"82.81a (11.34, 3)"
+"Trnaslog"	NA	NA	"49.74a (11.34, 3)"

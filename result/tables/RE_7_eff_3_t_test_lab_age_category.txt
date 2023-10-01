@@ -1,0 +1,4 @@
+"Lab(Old)"	"Lab Control(Young)"	"Lab Control(Old)"
+"Lab(Young)"	"-1.77 (0.08)"	"-1.33 (0.2)"	"-0.84 (0.41)"
+"Lab(Old)"	NA	"1.09 (0.29)"	"1.39 (0.17)"
+"Lab Control(Young)"	NA	NA	"0.76 (0.45)"

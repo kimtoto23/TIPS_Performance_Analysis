@@ -1,0 +1,4 @@
+"Lab.control"	"TIPS"	"TIPS.control"
+"Lab"	"-0.01 (0.99)"	"0.58 (0.56)"	"0.22 (0.82)"
+"Lab.control"	NA	"0.75 (0.45)"	"0.55 (0.58)"
+"TIPS"	NA	NA	"-0.55 (0.58)"
